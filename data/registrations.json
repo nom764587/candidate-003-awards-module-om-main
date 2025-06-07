@@ -1,0 +1,37 @@
+[
+  {
+    "regId": "SR_001",
+    "influencerId": "INF_lsmbwzyc5",
+    "email": "Himansh.raj.cs27@iilm.edu",
+    "name": "Himansh Raj",
+    "registeredAt": "2025-05-26T10:43:13.402Z"
+  },
+  {
+    "regId": "SR_002",
+    "influencerId": "INF_lwzsmm8dt",
+    "email": "iamthehimansh@gmail.com",
+    "name": "Himansh Raj",
+    "registeredAt": "2025-05-26T10:43:56.497Z"
+  },
+  {
+    "regId": "SR_003",
+    "influencerId": "INF_fxcov90ky",
+    "email": "Himansh2@g.com",
+    "name": "Himansh Raj 2",
+    "registeredAt": "2025-05-26T14:03:26.734Z"
+  },
+  {
+    "regId": "SR_004",
+    "influencerId": "INF_qlhwaqjnm",
+    "email": "Himansh.raj@iilm.edu",
+    "name": "Royal Challengers Bengaluru",
+    "registeredAt": "2025-05-26T14:11:37.900Z"
+  },
+  {
+    "regId": "SR_005",
+    "influencerId": "INF_7z13jpag0",
+    "email": "Test@g.com",
+    "name": "Himansh Raj test",
+    "registeredAt": "2025-05-26T14:12:31.572Z"
+  }
+]
